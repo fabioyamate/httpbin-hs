@@ -24,6 +24,7 @@ dependencies:
 - servant-server
 - wai
 - warp
+- req
 
 library:
   source-dirs: src
